@@ -40,8 +40,7 @@ Finally, as a last push of increasing our private score, we performed the follow
 For more details of our process, please look into the report PDF.
 
 ### Warnings
-Program takes quite a long time to run (>2 hours!). 
-Also, XGBoostClassifier.py does not work across platforms and accross different versions of XGBoost. 
+Program takes quite a long time to run (>2 hours!). Also, XGBoostClassifier.py does not work across platforms and accross different versions of XGBoost. 
 
 [Amazon Employee Access Challenge]: https://www.kaggle.com/c/amazon-employee-access-challenge
 [XGBoost]: https://github.com/dmlc/xgboost
